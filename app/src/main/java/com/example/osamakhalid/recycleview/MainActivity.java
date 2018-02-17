@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(new myAdapter(array));
         System.out.println("aaaa");
         System.out.println("osamagithub");
+        System.out.println("more change");
     }
 }
