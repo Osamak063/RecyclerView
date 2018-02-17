@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this,LinearLayoutManager.HORIZONTAL,false));
         recyclerView.setAdapter(new myAdapter(array));
         System.out.println("aaaa");
+        System.out.println("more change");
     }
 }
